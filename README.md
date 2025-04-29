@@ -4,9 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Analyst
 ------------
 
-- Who am I? A data-driven problem solver with a passion for turning information into impact. 
-- What do I do? I extract meaning from messy data using Python, SQL, and Power BI — building insights that lead to smarter decisions and measurable outcomes. 
-- Why it matters: Because behind every number is a story worth telling — and I help teams read it, understand it, and act on it.
+ Who am I? A data-driven problem solver with a passion for turning information into impact.
+ 
+ What do I do? I extract meaning from messy data using Python, SQL, and Power BI — building insights that lead to smarter decisions and measurable outcomes.
+ 
+ Why it matters: Because behind every number is a story worth telling — and I help teams read it, understand it, and act on it.
 
 * 🌍  I'm based in Zambia
 * ✉️  You can contact me at [joshuaminyoi@gmail.com](mailto:joshuaminyoi@gmail.com)
