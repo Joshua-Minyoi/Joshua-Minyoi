@@ -1,15 +1,10 @@
-# Create the README.md content as a string
-
-readme_content = """\
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Joshua Minyoi
 =====================================================================================================================================
 
 Data Analyst
 ------------
 
-Who am I? A data-driven problem solver with a passion for turning information into impact.
-What do I do? I extract meaning from messy data using Python, SQL, and Power BI — building insights that lead to smarter decisions and measurable outcomes. 
-Why it matters: Because behind every number is a story worth telling — and I help teams read it, understand it, and act on it.
+Who am I? A data-driven problem solver with a passion for turning information into impact. What do I do? I extract meaning from messy data using Python, SQL, and Power BI — building insights that lead to smarter decisions and measurable outcomes. Why it matters: Because behind every number is a story worth telling — and I help teams read it, understand it, and act on it.
 
 * 🌍  I'm based in Zambia
 * ✉️  You can contact me at [joshuaminyoi@gmail.com](mailto:joshuaminyoi@gmail.com)
@@ -17,30 +12,18 @@ Why it matters: Because behind every number is a story worth telling — and I h
 
 ### Skills
 
-**Core Data Analyst Skills:**  
-- Data Cleaning & Wrangling  
+**Core Data Analytics and Business Intelligence Skills:**  
+- SQL
 - Exploratory Data Analysis (EDA)  
-- Data Visualization & Dashboarding  
-- SQL Querying & Joins  
-- DAX for Power BI  
-- Power Query Editor  
-- Report Automation  
-- Business Metrics Interpretation  
-- Data Storytelling  
-- Data-Driven Decision Support  
+- Data Cleaning & Wrangling
+- Power BI
+- Python
+- Predictive Modelling
+
 
 <p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a>
 </p>
-"""
-
-# Save it as a README.md file
-file_path = "/mnt/data/README_Joshua_Minyoi.md"
-with open(file_path, "w") as file:
-    file.write(readme_content)
-
-file_path
-
 
 
 ### Socials
