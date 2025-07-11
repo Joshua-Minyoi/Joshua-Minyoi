@@ -9,18 +9,16 @@ Data Analyst
  Why it matters: Because behind every number is a story worth telling — and I help teams read it, understand it, and act on it<br>
 
 * 🌍  I'm based in Zambia
-* ✉️  You can contact me at [joshuaminyoi@gmail.com](mailto:joshuaminyoi@gmail.com)
 * 🤝  I'm open to collaborating on Projects
 
 ### Skills
 
 **Core Data Analytics and Business Intelligence Skills:**  
 - SQL
-- Exploratory Data Analysis (EDA)  
-- Data Cleaning & Wrangling
+- SQL Server
 - Power BI
 - Python
-- Predictive Modelling
+- ETL
 
 
 <p align="left">
