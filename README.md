@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hi, I'm Joshua! 👋<br><br>Data Analyst | Junior Data Engineer<br><br>NOC operations professional transitioning to data engineering. Currently building data pipelines and analytics solutions while completing an advanced data science certification. Ready for junior data engineering and data analyst roles.<br><br>🛠️ Technical Skills<br><br>Data Analytics: SQL, Python, statistical analysis, data visualisation <br>Data Engineering: ETL processes, data pipelines, cloud platforms, data warehousing<br>Operations: System monitoring, performance optimisation, troubleshooting<br><br>📫 Open to Opportunities<br>Actively seeking junior data engineering and data analyst positions. Let's connect!
+# Hi, I'm Joshua! 👋
+Data Analyst | Junior Data Engineer<br><br>NOC operations professional transitioning to data engineering.<br><br>🛠️ Technical Skills<br><br>Data Analytics: SQL, Python, statistical analysis, data visualisation <br>Data Engineering: ETL processes, data warehousing<br>Operations: System monitoring, performance optimisation, troubleshooting.
 
 
 ## 🌐 Socials:
