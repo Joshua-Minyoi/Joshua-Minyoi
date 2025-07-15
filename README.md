@@ -1,5 +1,5 @@
 ## 💫 Hi, I'm Joshua!👋
-<br><br>My name is **Joshua Minyoi**. I'm transitioning to data analytics and engineering from telecommunications NOC operations and infrastructure maintenance planning (5+ years).<br><br>🛠️ Technical Skills<br><br>Data Analytics: SQL, Python, statistical analysis, data visualisation <br>Data Engineering: ETL processes, data warehousing<br>Operations: System monitoring, performance optimisation, troubleshooting, planning<br><br>
+My name is **Joshua Minyoi**. I'm transitioning to data analytics and engineering from telecommunications NOC operations and infrastructure maintenance planning (5+ years).<br><br>🛠️ Technical Skills<br><br>Data Analytics: SQL, Python, statistical analysis, data visualisation <br>Data Engineering: ETL processes, data warehousing<br>Operations: System monitoring, performance optimisation, troubleshooting, planning.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/joshuaminyoi/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/JoshuaMinyoi) 
