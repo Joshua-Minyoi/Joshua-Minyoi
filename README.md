@@ -1,5 +1,11 @@
 # Hi, I'm Joshua! 👋
-Data Analyst | Junior Data Engineer<br><br>NOC operations professional transitioning to data engineering.<br><br>🛠️ Technical Skills<br><br>Data Analytics: SQL, Python, statistical analysis, data visualisation <br>Data Engineering: ETL processes, data warehousing<br>Operations: System monitoring, performance optimisation, troubleshooting.
+Data Analyst | Junior Data Engineer<br><br>NOC operations professional transitioning to data engineering.<br><be>
+___
+🛠️ Technical Skills<br><be>
+___
+Data Analytics: SQL, Python, statistical analysis, data visualisation <be>
+Data Engineering: ETL processes, data warehousing<be>
+Operations: System monitoring, performance optimisation, troubleshooting.
 
 
 ## 🌐 Socials:
