@@ -1,9 +1,8 @@
 ## 💫 Hi, I'm Joshua! 👋
-My name is **Joshua Minyoi**. I'm transitioning to data analytics and engineering from telecommunications NOC operations and infrastructure maintenance planning (5+ years).
-Currently building data analytics and engineering projects.
+My name is **Joshua Minyoi**. I'm transitioning to data analytics and engineering from telecommunications NOC operations and infrastructure maintenance planning (5+ years)<br>Currently building data analytics and engineering projects.
 
 ## 🌐 Stay Connected
-Feel free to connect with me on the following platforms:
+Feel free to connect with me on the following platforms:<br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/joshuaminyoi/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/JoshuaMinyoi) 
 
 ## 💻 Tech Stack
