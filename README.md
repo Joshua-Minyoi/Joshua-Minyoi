@@ -1,4 +1,4 @@
-##  Hi 👋
+##  Hi, I'm Joshua!👋
 My name is **Joshua Minyoi**, and I do data analytics and data engineering things.
 
 ## 🌐 Let's Connect
